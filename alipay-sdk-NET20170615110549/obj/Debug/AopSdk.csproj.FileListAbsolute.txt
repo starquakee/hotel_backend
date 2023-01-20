@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\test\backend\HotelManagement\alipay-sdk-NET20170615110549\bin\Debug\AopSdk.dll
+C:\Users\DELL\Desktop\test\backend\HotelManagement\alipay-sdk-NET20170615110549\bin\Debug\AopSdk.pdb
+C:\Users\DELL\Desktop\test\backend\HotelManagement\alipay-sdk-NET20170615110549\obj\Debug\AopSdk.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\test\backend\HotelManagement\alipay-sdk-NET20170615110549\obj\Debug\AopSdk.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\test\backend\HotelManagement\alipay-sdk-NET20170615110549\obj\Debug\AopSdk.dll
+C:\Users\DELL\Desktop\test\backend\HotelManagement\alipay-sdk-NET20170615110549\obj\Debug\AopSdk.pdb

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelManagement", "HotelManagement\HotelManagement.csproj", "{3DCFA934-90B9-4EB9-9166-C9369391F5C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "Models\Models.csproj", "{EAD9E23D-5411-41FF-88C5-AFBECAEA4A0B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecurityUtils", "JwtUtils\SecurityUtils.csproj", "{BB8857D9-3B15-43A1-8B8D-9D0550B728E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AopSdk", "alipay-sdk-NET20170615110549\AopSdk.csproj", "{9C11CAE5-5188-4E71-825B-68FC3135728A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DCFA934-90B9-4EB9-9166-C9369391F5C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCFA934-90B9-4EB9-9166-C9369391F5C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCFA934-90B9-4EB9-9166-C9369391F5C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCFA934-90B9-4EB9-9166-C9369391F5C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD9E23D-5411-41FF-88C5-AFBECAEA4A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD9E23D-5411-41FF-88C5-AFBECAEA4A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD9E23D-5411-41FF-88C5-AFBECAEA4A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD9E23D-5411-41FF-88C5-AFBECAEA4A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB8857D9-3B15-43A1-8B8D-9D0550B728E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB8857D9-3B15-43A1-8B8D-9D0550B728E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB8857D9-3B15-43A1-8B8D-9D0550B728E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB8857D9-3B15-43A1-8B8D-9D0550B728E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C11CAE5-5188-4E71-825B-68FC3135728A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C11CAE5-5188-4E71-825B-68FC3135728A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C11CAE5-5188-4E71-825B-68FC3135728A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C11CAE5-5188-4E71-825B-68FC3135728A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {651DA118-77B4-45E2-9C17-F2F2EC53D4DF}
+	EndGlobalSection
+EndGlobal
