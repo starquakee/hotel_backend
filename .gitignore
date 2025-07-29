@@ -1,0 +1,27 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.pdb
+*.cache
+*.props
+*.targets
+
+# Temporary files
+/tmp/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+packages/
+
+# Log files
+*.log
