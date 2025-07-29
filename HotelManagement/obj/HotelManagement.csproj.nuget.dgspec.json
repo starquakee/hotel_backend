@@ -1,61 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\HotelManagement\\HotelManagement.csproj": {}
+    "/home/runner/work/hotel_backend/hotel_backend/HotelManagement/HotelManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\alipay-sdk-NET20170615110549\\AopSdk.csproj": {
-      "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\alipay-sdk-NET20170615110549\\AopSdk.csproj",
-        "projectName": "AopSdk",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\alipay-sdk-NET20170615110549\\AopSdk.csproj",
-        "frameworks": {
-          "net48": {
-            "projectReferences": {}
-          }
-        }
-      },
-      "frameworks": {
-        "net48": {}
-      }
-    },
-    "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\HotelManagement\\HotelManagement.csproj": {
+    "/home/runner/work/hotel_backend/hotel_backend/HotelManagement/HotelManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\HotelManagement\\HotelManagement.csproj",
+        "projectUniqueName": "/home/runner/work/hotel_backend/hotel_backend/HotelManagement/HotelManagement.csproj",
         "projectName": "HotelManagement",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\HotelManagement\\HotelManagement.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\HotelManagement\\obj\\",
+        "projectPath": "/home/runner/work/hotel_backend/hotel_backend/HotelManagement/HotelManagement.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/hotel_backend/hotel_backend/HotelManagement/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\alipay-sdk-NET20170615110549\\AopSdk.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\alipay-sdk-NET20170615110549\\AopSdk.csproj"
+              "/home/runner/work/hotel_backend/hotel_backend/JwtUtils/SecurityUtils.csproj": {
+                "projectPath": "/home/runner/work/hotel_backend/hotel_backend/JwtUtils/SecurityUtils.csproj"
               },
-              "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\JwtUtils\\SecurityUtils.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\JwtUtils\\SecurityUtils.csproj"
+              "/home/runner/work/hotel_backend/hotel_backend/Models/Models.csproj": {
+                "projectPath": "/home/runner/work/hotel_backend/hotel_backend/Models/Models.csproj"
               },
-              "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\Models\\Models.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\Models\\Models.csproj"
+              "/home/runner/work/hotel_backend/hotel_backend/alipay-sdk-NET20170615110549/AopSdk.csproj": {
+                "projectPath": "/home/runner/work/hotel_backend/hotel_backend/alipay-sdk-NET20170615110549/AopSdk.csproj"
               }
             }
           }
@@ -108,6 +86,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -116,33 +108,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.118/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\JwtUtils\\SecurityUtils.csproj": {
+    "/home/runner/work/hotel_backend/hotel_backend/JwtUtils/SecurityUtils.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\JwtUtils\\SecurityUtils.csproj",
+        "projectUniqueName": "/home/runner/work/hotel_backend/hotel_backend/JwtUtils/SecurityUtils.csproj",
         "projectName": "SecurityUtils",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\JwtUtils\\SecurityUtils.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\JwtUtils\\obj\\",
+        "projectPath": "/home/runner/work/hotel_backend/hotel_backend/JwtUtils/SecurityUtils.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/hotel_backend/hotel_backend/JwtUtils/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -181,38 +166,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.118/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\Models\\Models.csproj": {
+    "/home/runner/work/hotel_backend/hotel_backend/Models/Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\Models\\Models.csproj",
+        "projectUniqueName": "/home/runner/work/hotel_backend/hotel_backend/Models/Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\test\\backend\\HotelManagement\\Models\\obj\\",
+        "projectPath": "/home/runner/work/hotel_backend/hotel_backend/Models/Models.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/work/hotel_backend/hotel_backend/Models/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -255,13 +243,38 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.118/RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "/home/runner/work/hotel_backend/hotel_backend/alipay-sdk-NET20170615110549/AopSdk.csproj": {
+      "restore": {
+        "projectUniqueName": "/home/runner/work/hotel_backend/hotel_backend/alipay-sdk-NET20170615110549/AopSdk.csproj",
+        "projectName": "AopSdk",
+        "projectPath": "/home/runner/work/hotel_backend/hotel_backend/alipay-sdk-NET20170615110549/AopSdk.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
       }
     }
   }
